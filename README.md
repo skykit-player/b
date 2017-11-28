@@ -1,2 +1,2 @@
-# Skykit Player B
+# Skykit Player Desktop B
 Beta
